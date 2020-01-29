@@ -1,7 +1,0 @@
-html, body, header, #intro {
-  font-family: Comic Sans MS, Times New Roman, Trebuchet MS, sans-serif;
-  height: 100%;
-}
-#intro {
-  background: #24adbb url(../img/background.jpg);
-}
