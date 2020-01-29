@@ -1,0 +1,15 @@
+html, body, header, #intro {
+  font-family: Comic Sans MS, Times New Roman, Trebuchet MS, sans-serif;
+  height: 100%;
+}
+#intro {
+  background: #24adbb url(../img/background.jpg) fixed;
+}
+.top-nav-collapse {
+  background-color: #24355C;
+}
+@media (max-width: 768px) {
+  .navbar:not(.top-nav-collapse){
+  	background: #24355C;
+  }
+}
